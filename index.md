@@ -1,4 +1,4 @@
-d### 技能&语言
+### 技能&语言
 
 #### 1.熟练使用PHP/JAVA/Python2.7，熟悉Lua/Shell
 
