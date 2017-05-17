@@ -1,45 +1,50 @@
-### 技能s&语言
+### 技能&语言
 
 #### 1.熟练使用PHP/JAVA/Python2.7，熟悉Lua/Shell
 
 PHP
->熟练使用CI，熟悉YII/Laravel，阅读并修改过部分源码，对于三种框架的设计思想有了解和研究
+> * 熟练使用CI，熟悉YII/Laravel，阅读并修改过部分源码，对于三种框架的设计思想有了解和研究。了解Swoolo
+> * 了解PHP-FPM和CGI，了解运行以及分配进程机制，与Mysql连接长短连接优化。
 
 JAVA
 >熟练使用SSH/SpringMVC/SpringBoot/SpringSecuity/Shiro/Netty/RabbitMQ/ZeroMQ,利用Appaction Context和线程池模仿MQ。
 
-You can use the [editor on GitHub](https://github.com/owenjsw/CV/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Python
+>熟悉爬虫/Pure Python，分别使用urllib和scrapy开发两个项目，使用numpy/wordcloud/jieba等类库进行语义分析和数据分析
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lua
+>了解Luajit，主要使用Lua开发openresty。主要为Waf，由通过切分Url和过滤关键字的防Sqlmap注入、恶意爬虫、防范CSRF与其他网站redirect4部分组成
 
-### Markdown
+Shell
+> * 编写过利用iptables、日志来构建防火墙。
+> * 编写sql-shell，用于同步线上线下数据库
+> * 编写数据库主从同步脚本
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2.熟练使用Mysql/Memcache/Redis,熟悉SQLServer/Orcale/ES/MongoDB
 
-```markdown
-Syntax highlighted code block
+DB
+> * 熟悉InnoDB/Myisam，熟悉Index/存储过程，熟悉建表规则，熟悉各种连接方式与连接池
+> * 熟练使用SQL语句
+> * 熟练使用explain/process优化SQL语句，熟悉mysql各种文件如mysql-bin/slow-query
 
-# Header 1
-## Header 2
-### Header 3
+Cache
+> * 熟练使用Cache中的数据结构，优化存储
 
-- Bulleted
-- List
+#### 3.熟练使用Mac开发环境，熟悉Linux，了解SA
 
-1. Numbered
-2. List
+开发环境
+> * 熟练使用PHPStorm/IDEA/PyCharm/WebStorm
+> * 熟悉vi/vim/emacs/terminal/term2
 
-**Bold** and _Italic_ and `Code` text
+Linux
+> * 熟悉Ubuntu/CentOS
+> * 会使用Linux基本命令包括并不限于chmod/cat/tail/iptables/crontab/awk/find/ps等
+> * 熟悉open-falcon/kibitz/goaccess等开源SA软件
 
-[Link](url) and ![Image](src)
-```
+SA
+> * 熟悉Nginx/Tomcat/Apache等web容器，了解各个module。熟悉负载均衡，分发，proxy等功能。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 4.安全。了解SQL注入/XSS/CSRF/DDOS,攻防两端均有实操
 
-### Jekyll Themes
+#### 5.熟悉单元测试，回归测试。了解PHP/JAVA测试。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/owenjsw/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
