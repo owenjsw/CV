@@ -1,6 +1,6 @@
 ### 技能s&语言
 
-# 1.熟练使用PHP/JAVA/Python2.7，熟悉Lua/Shell
+#### 1.熟练使用PHP/JAVA/Python2.7，熟悉Lua/Shell
 
 PHP
 >熟练使用CI，熟悉YII/Laravel，阅读并修改过部分源码，对于三种框架的设计思想有了解和研究
