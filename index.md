@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+### 技能s&语言
+
+# 1.熟练使用PHP/JAVA/Python2.7，熟悉Lua/Shell
+
+PHP
+>熟练使用CI，熟悉YII/Laravel，阅读并修改过部分源码，对于三种框架的设计思想有了解和研究
+
+JAVA
+>熟练使用SSH/SpringMVC/SpringBoot/SpringSecuity/Shiro/Netty/RabbitMQ/ZeroMQ,利用Appaction Context和线程池模仿MQ。
 
 You can use the [editor on GitHub](https://github.com/owenjsw/CV/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
