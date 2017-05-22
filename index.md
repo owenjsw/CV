@@ -3,7 +3,7 @@
 #### 1.熟练使用PHP/JAVA/Python2.7，熟悉Lua/Shell
 
 PHP
-> * 熟练使用CI，熟悉YII/Laravel，阅读并修改过部分源码，对于三种框架的设计思想有了解和研究。了解Swoolo
+> * 熟练使用CI，熟悉YII/Laravel，阅读并修改过部分源码，对于三种框架的设计思想有了解和研究。了解Swoole
 > * 了解PHP-FPM和CGI，了解运行以及分配进程机制，与Mysql连接长短连接优化。
 
 JAVA
